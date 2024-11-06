@@ -1,0 +1,35 @@
+Here are some useful development tools that can streamline your workflow and boost productivity, especially for a setup involving code editing, debugging, and documentation referencing:
+
+1. Visual Studio Code Extensions
+Prettier: For code formatting; keeps code consistent.
+ESLint: Lints code to ensure best practices and catches errors early.
+Live Server: For real-time reloading while working on web projects.
+GitLens: For advanced Git capabilities within VSCode, showing who changed what and why.
+Tabnine: AI-powered autocompletions, especially helpful for faster coding.
+Debugger for Chrome: Great for debugging JavaScript directly within VSCode.
+2. Browser Developer Tools (Chrome/Firefox DevTools)
+Network Tab: Debugs loading times, API calls, and network requests.
+Elements Tab: Inspects and manipulates HTML and CSS on the fly.
+Performance Tab: Analyzes page performance and optimizes rendering speed.
+Lighthouse: Evaluates page performance, SEO, and accessibility directly in Chrome DevTools.
+3. Postman
+Excellent for testing APIs, making requests, and setting up automated tests.
+It supports various HTTP requests and can handle complex workflows.
+4. Docker
+Enables isolated development environments, making it easy to run and manage apps locally.
+A great choice for maintaining consistency across different development and production environments.
+5. Figma (or Excalidraw for simpler visuals)
+For visual design and prototyping. Essential if your work involves UI/UX considerations.
+Excalidraw provides quick, hand-drawn style sketches for visual planning.
+6. Notion or Obsidian for Documentation
+Keep notes organized and accessible. You can create project-specific or code-specific references for quick access while developing.
+Both allow easy linking between notes and support various content formats.
+7. JIRA/Trello for Task Management
+Helps keep track of tasks, bugs, and feature requests. JIRA is more detailed for Agile processes, while Trello is simpler and visually appealing.
+8. GitHub Desktop or GitKraken
+For an intuitive graphical interface for Git, making it easier to manage branches, commits, and merges.
+9. Microsoft PowerToys
+For Windows users, PowerToys includes tools like FancyZones, which helps arrange your workspace efficiently, perfect for a dual- or multi-window setup.
+10. Alfred (Mac) or Wox (Windows)
+A quick launcher tool that speeds up access to apps, files, and workflows, helping you stay focused and reduce mouse use.
+With this setup, you should have a comprehensive toolkit for various development needs, all while keeping productivity and efficiency in mind.
